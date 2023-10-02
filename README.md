@@ -32,5 +32,7 @@ Double Deep Q-learning networks
 
 * The notebook trading_system_A2C.ipynb contains the implementation of the Deep Q-Network, Double Deep Q-Network, Dueling Double Deep Q-learning networks
   
-# Somme Results
+## Somme Results
+![DUEL XRP TRADE](https://github.com/dfangnon/RL_Final_Projects_AMMI2023/assets/126726283/b1e3202e-e403-4da1-88e1-1809770816d3)
+ ![Duel_XRP_port](https://github.com/dfangnon/RL_Final_Projects_AMMI2023/assets/126726283/4a1bddf6-b519-43cd-b81a-d5e6379db73b)
 
