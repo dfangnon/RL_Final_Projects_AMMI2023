@@ -31,4 +31,6 @@ In this work, we use two kinds of assets: "BTC-USD" and "XRP-USD"
 Double Deep Q-learning networks
 
 * The notebook trading_system_A2C.ipynb contains the implementation of the Deep Q-Network, Double Deep Q-Network, Dueling Double Deep Q-learning networks
-* 
+  
+# Somme Results
+
